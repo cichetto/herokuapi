@@ -1,0 +1,36 @@
+{
+  "student": [
+    {
+      "id": "",
+      "name": "",
+      "classroom": "",
+      "registration": "",
+      "deficiency": "",
+      "password": ""
+    },
+    {
+      "name": "luciana",
+      "classroom": "3b",
+      "registration": "466",
+      "deficiency": "autismo",
+      "password": "abc",
+      "id": 2
+    },
+    {
+      "name": "lindalva",
+      "classroom": "4b",
+      "registration": "7598",
+      "deficiency": "sindrome de down",
+      "password": "abc",
+      "id": 3
+    },
+    {
+      "name": "dalva",
+      "classroom": "4b",
+      "registration": "7598",
+      "deficiency": "sindrome de down",
+      "password": "abc",
+      "id": 4
+    }
+  ]
+}
