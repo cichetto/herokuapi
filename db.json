@@ -31,6 +31,14 @@
       "deficiency": "sindrome de down",
       "password": "abc",
       "id": 4
+    },
+    {
+      "name": "dalva",
+      "classroom": "4b",
+      "registration": "7598",
+      "deficiency": "sindrome de down",
+      "password": "abc",
+      "id": 5
     }
   ]
 }
